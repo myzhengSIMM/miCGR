@@ -1,0 +1,7 @@
+split,Accuracy,Sensitivity,Specificity,F1,PPV,NPV
+offset-9-mer-m7
+test1,0.8661, 0.8748, 0.5776, 0.9269, 0.9856, 0.1222
+
+
+
+
